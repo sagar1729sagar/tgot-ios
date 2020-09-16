@@ -1,0 +1,6 @@
+framework module Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests {
+  umbrella header "Pods-The Goddess of Taste-The Goddess of TasteUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

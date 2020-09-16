@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests : NSObject
+@end
+@implementation PodsDummy_Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests
+@end

@@ -1,0 +1,19 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'The Goddess of Taste' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for The Goddess of Taste
+
+  target 'The Goddess of TasteTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'The Goddess of TasteUITests' do
+    # Pods for testing
+  end
+
+end

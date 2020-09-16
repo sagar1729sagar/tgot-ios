@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65EEC8E2A217D1ED711B9AF5 /* Pods_The_Goddess_of_Taste.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 236105AB3D0EAE212E3ABBED /* Pods_The_Goddess_of_Taste.framework */; };
+		8A08BAB240737EB87A4B041C /* Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D67EFEC46616FF1367B33732 /* Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests.framework */; };
+		AD518CCE368D4690334DAFCC /* Pods_The_Goddess_of_TasteTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48413A3A9F2BC5A4D66CC6DA /* Pods_The_Goddess_of_TasteTests.framework */; };
 		C9B6DF0525122A6300510132 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B6DF0425122A6300510132 /* AppDelegate.swift */; };
 		C9B6DF0725122A6300510132 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B6DF0625122A6300510132 /* SceneDelegate.swift */; };
 		C9B6DF0925122A6300510132 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B6DF0825122A6300510132 /* ViewController.swift */; };
@@ -36,6 +39,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		236105AB3D0EAE212E3ABBED /* Pods_The_Goddess_of_Taste.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_The_Goddess_of_Taste.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		48413A3A9F2BC5A4D66CC6DA /* Pods_The_Goddess_of_TasteTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_The_Goddess_of_TasteTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		56752DE6CE325998314BDFF6 /* Pods-The Goddess of Taste-The Goddess of TasteUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-The Goddess of Taste-The Goddess of TasteUITests.debug.xcconfig"; path = "Target Support Files/Pods-The Goddess of Taste-The Goddess of TasteUITests/Pods-The Goddess of Taste-The Goddess of TasteUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		6E70C1292CD2C09264AA92BF /* Pods-The Goddess of Taste.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-The Goddess of Taste.release.xcconfig"; path = "Target Support Files/Pods-The Goddess of Taste/Pods-The Goddess of Taste.release.xcconfig"; sourceTree = "<group>"; };
+		82A6A9770CE06AA8D0B437AB /* Pods-The Goddess of Taste.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-The Goddess of Taste.debug.xcconfig"; path = "Target Support Files/Pods-The Goddess of Taste/Pods-The Goddess of Taste.debug.xcconfig"; sourceTree = "<group>"; };
 		C9B6DF0125122A6300510132 /* The Goddess of Taste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Goddess of Taste.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9B6DF0425122A6300510132 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C9B6DF0625122A6300510132 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +59,10 @@
 		C9B6DF2525122A6900510132 /* The Goddess of TasteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "The Goddess of TasteUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9B6DF2925122A6900510132 /* The_Goddess_of_TasteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = The_Goddess_of_TasteUITests.swift; sourceTree = "<group>"; };
 		C9B6DF2B25122A6900510132 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D67EFEC46616FF1367B33732 /* Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD6AD4ADEB908F58A535FAC0 /* Pods-The Goddess of Taste-The Goddess of TasteUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-The Goddess of Taste-The Goddess of TasteUITests.release.xcconfig"; path = "Target Support Files/Pods-The Goddess of Taste-The Goddess of TasteUITests/Pods-The Goddess of Taste-The Goddess of TasteUITests.release.xcconfig"; sourceTree = "<group>"; };
+		DD7EBC6B6AE168D569334045 /* Pods-The Goddess of TasteTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-The Goddess of TasteTests.release.xcconfig"; path = "Target Support Files/Pods-The Goddess of TasteTests/Pods-The Goddess of TasteTests.release.xcconfig"; sourceTree = "<group>"; };
+		FBACD8B118DA586AB9F80D1C /* Pods-The Goddess of TasteTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-The Goddess of TasteTests.debug.xcconfig"; path = "Target Support Files/Pods-The Goddess of TasteTests/Pods-The Goddess of TasteTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65EEC8E2A217D1ED711B9AF5 /* Pods_The_Goddess_of_Taste.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD518CCE368D4690334DAFCC /* Pods_The_Goddess_of_TasteTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +86,27 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A08BAB240737EB87A4B041C /* Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B5BAA61065611DD0EBF1E1D7 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				82A6A9770CE06AA8D0B437AB /* Pods-The Goddess of Taste.debug.xcconfig */,
+				6E70C1292CD2C09264AA92BF /* Pods-The Goddess of Taste.release.xcconfig */,
+				56752DE6CE325998314BDFF6 /* Pods-The Goddess of Taste-The Goddess of TasteUITests.debug.xcconfig */,
+				DD6AD4ADEB908F58A535FAC0 /* Pods-The Goddess of Taste-The Goddess of TasteUITests.release.xcconfig */,
+				FBACD8B118DA586AB9F80D1C /* Pods-The Goddess of TasteTests.debug.xcconfig */,
+				DD7EBC6B6AE168D569334045 /* Pods-The Goddess of TasteTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		C9B6DEF825122A6300510132 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +114,8 @@
 				C9B6DF1D25122A6900510132 /* The Goddess of TasteTests */,
 				C9B6DF2825122A6900510132 /* The Goddess of TasteUITests */,
 				C9B6DF0225122A6300510132 /* Products */,
+				B5BAA61065611DD0EBF1E1D7 /* Pods */,
+				E29B77790E19AA89DEBD53F1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -131,6 +162,16 @@
 			path = "The Goddess of TasteUITests";
 			sourceTree = "<group>";
 		};
+		E29B77790E19AA89DEBD53F1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				236105AB3D0EAE212E3ABBED /* Pods_The_Goddess_of_Taste.framework */,
+				D67EFEC46616FF1367B33732 /* Pods_The_Goddess_of_Taste_The_Goddess_of_TasteUITests.framework */,
+				48413A3A9F2BC5A4D66CC6DA /* Pods_The_Goddess_of_TasteTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -138,6 +179,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C9B6DF2E25122A6900510132 /* Build configuration list for PBXNativeTarget "The Goddess of Taste" */;
 			buildPhases = (
+				12E6B6DD0C5C61D31E23698C /* [CP] Check Pods Manifest.lock */,
 				C9B6DEFD25122A6300510132 /* Sources */,
 				C9B6DEFE25122A6300510132 /* Frameworks */,
 				C9B6DEFF25122A6300510132 /* Resources */,
@@ -155,6 +197,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C9B6DF3125122A6900510132 /* Build configuration list for PBXNativeTarget "The Goddess of TasteTests" */;
 			buildPhases = (
+				E02CB0040CFA75D9F5F5DB33 /* [CP] Check Pods Manifest.lock */,
 				C9B6DF1625122A6900510132 /* Sources */,
 				C9B6DF1725122A6900510132 /* Frameworks */,
 				C9B6DF1825122A6900510132 /* Resources */,
@@ -173,6 +216,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C9B6DF3425122A6900510132 /* Build configuration list for PBXNativeTarget "The Goddess of TasteUITests" */;
 			buildPhases = (
+				A8F8A4E989F0653CB3AFD8F7 /* [CP] Check Pods Manifest.lock */,
 				C9B6DF2125122A6900510132 /* Sources */,
 				C9B6DF2225122A6900510132 /* Frameworks */,
 				C9B6DF2325122A6900510132 /* Resources */,
@@ -256,6 +300,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		12E6B6DD0C5C61D31E23698C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-The Goddess of Taste-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A8F8A4E989F0653CB3AFD8F7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-The Goddess of Taste-The Goddess of TasteUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E02CB0040CFA75D9F5F5DB33 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-The Goddess of TasteTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C9B6DEFD25122A6300510132 /* Sources */ = {
@@ -436,6 +549,7 @@
 		};
 		C9B6DF2F25122A6900510132 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 82A6A9770CE06AA8D0B437AB /* Pods-The Goddess of Taste.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -454,6 +568,7 @@
 		};
 		C9B6DF3025122A6900510132 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E70C1292CD2C09264AA92BF /* Pods-The Goddess of Taste.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -472,6 +587,7 @@
 		};
 		C9B6DF3225122A6900510132 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FBACD8B118DA586AB9F80D1C /* Pods-The Goddess of TasteTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -494,6 +610,7 @@
 		};
 		C9B6DF3325122A6900510132 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DD7EBC6B6AE168D569334045 /* Pods-The Goddess of TasteTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -516,6 +633,7 @@
 		};
 		C9B6DF3525122A6900510132 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 56752DE6CE325998314BDFF6 /* Pods-The Goddess of Taste-The Goddess of TasteUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -536,6 +654,7 @@
 		};
 		C9B6DF3625122A6900510132 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DD6AD4ADEB908F58A535FAC0 /* Pods-The Goddess of Taste-The Goddess of TasteUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
